@@ -1,0 +1,82 @@
+@media screen and (max-width:1370px) {
+	.top_li{
+		font-size: .8rem;
+	}
+	.top_w{
+		width: 90%;
+	}
+	.move_list{
+		font-size: 2rem;
+	}
+	.move_back{
+		background-position:50% 40%;
+	}
+	.about{
+		height: 70vh;
+	}
+	.about_w{
+		height: 60vh;
+		width: 90%;
+	}
+	.about_h1{
+		height: 10vh;
+	}
+	.about_main{
+		height: 50vh;
+	}
+	.AL_h1{
+		height: 20%;
+	}
+	.AL_p{
+		height: 60%;
+		font-size: 1rem;
+	}
+	.AL_btn{
+		height: 10%;
+	}
+	._move{
+		height: 90vh;
+	}
+	._move_w{
+		height: 65vh;
+		width: 90%;
+	}
+	._move_con::after{
+		font-size: 2rem; 
+	}
+	._move_right{
+		background-size: 100% 100%;
+	}
+	.test_w{
+		width: 90%;
+	}
+	.team{
+		height: 90vh;
+	}
+	.team_w{
+		width: 80%;
+		height: 70vh;
+	}
+	.team_main{
+		height: 55vh;
+	}
+	.season{
+		height: 80vh;
+	}
+	.season_w{
+		width: 90%;
+	}
+	.season_image{
+		width: 45%;
+		left: 5%;
+	}
+	.foot{
+		height: 80vh;
+	}
+	.foot_w{
+		width: 90%;
+	}
+	.foot_h1{
+		font-size: 6rem;
+	}
+											
